@@ -23,3 +23,5 @@ You can also use the flink cluster to run the project, by doing the following:
 - run `./bin/start-cluster.sh` to start the cluster
 - run the jar file created by building this project, e.g. `./bin/flink run /path/to/frauddetection/repo/target/frauddetection-0.1.jar`
 - monitor the job at `http://localhost:8081/`
+
+![web UI](./images/web_UI.png?raw=true "Flink web UI")
